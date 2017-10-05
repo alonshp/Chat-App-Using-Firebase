@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+
+    <!--<string name="facebook_application_id" translatable="false"><Your-APP-ID></string>-->
+    <!--<string name="fb_login_protocol_scheme" translatable="false">fb<Your-APP-ID></string>-->
+</resources>
